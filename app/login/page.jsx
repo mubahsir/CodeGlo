@@ -37,7 +37,7 @@ const Loginsignup = () => {
           <span>Login to your</span>
         </div>
         <div className="title-2">
-          <span>SPACE</span>
+          <span>CodeGlo</span>
         </div>
 
         <div className="input-container">

@@ -21,7 +21,7 @@ const Footer = () => {
           <p>Suite 600</p>
           <p>Milwaukee, WI 53203</p>
           <p>USA</p>
-          <p>+1920-221-0777</p>
+          <p>+1 737-282-8626</p>
           <p>info@codeglo.com</p>
 
           <div className="social-icons">
