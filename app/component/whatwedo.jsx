@@ -104,7 +104,7 @@ const Whatwedo = () => {
         </div>
 
         <div className=" whatwedoitem" id="whatwechangecolor">
-          <Link href={"/IT-Security"} id="whatwechangecolor">
+          <Link href={"/Services-Cloud"} id="whatwechangecolor">
             <div id="firstspanwhat" className=" ">
               Cloud Infrastructure
             </div>{" "}
