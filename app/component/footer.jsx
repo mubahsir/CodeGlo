@@ -15,7 +15,7 @@ const Footer = () => {
   return (
     <div>
       <div className="footercontainer">
-        <div className="section">
+        <div className="section Orbiton">
           <h2 className=" ">GLOBAL HEADQUARTERS</h2>
           <p>342 N Water St</p>
           <p>Suite 600</p>
@@ -64,7 +64,7 @@ const Footer = () => {
             {" "}
             <Link href="/Board">Board Meeting App</Link>
           </p>
-          <h2 className=" ">BLOG</h2>
+          <h2 className="footerblog ">BLOG</h2>
           <p>Custom-CMS</p>
         </div>
         <div className="section">
@@ -86,7 +86,7 @@ const Footer = () => {
           <p>
             <Link href="/IT-Security">IT Security</Link>
           </p>
-          <p>
+          {/* <p>
             {" "}
             <Link href="/Digital-Marketing">Digital Marketing</Link>
           </p>
@@ -102,7 +102,7 @@ const Footer = () => {
           </p>
           <p>
             <Link href="/Blockchain-Technoly">Blockchain Technology</Link>
-          </p>
+          </p> */}
         </div>
         <div className="section">
           <h2 className=" ">COMPANY</h2>
@@ -125,14 +125,7 @@ const Footer = () => {
           </p>
         </div>
       </div>
-      <div className="clutch-review">
-        <img src="ban_log2.png" alt="Clutch" />
-        <span>
-          <IoStarSharp />
-          <IoStarSharp />
-          <IoStarSharp /> 6 Reviews
-        </span>
-      </div>
+
 
       <div className="copyright">
         <p>Copyright © 2019 CodeGlo Technologies. All rights reserved.</p>

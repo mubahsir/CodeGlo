@@ -6,7 +6,7 @@ import toast, { Toaster } from "react-hot-toast";
 import Link from "next/link";
 import { createUserWithEmailAndPassword } from "firebase/auth";
 import { auth, firestore } from "../firedata";
-import { doc, setDoc } from "firebase/firestore";
+import { addDoc, collection, doc, setDoc } from "firebase/firestore";
 import { useRouter } from "next/navigation";
 
 const Loginsignup = () => {
@@ -15,24 +15,32 @@ const Loginsignup = () => {
   let [Username, Setusername] = useState("");
   let [Password, SetPassword] = useState("");
   let [Email, Setemail] = useState("");
+
   const route = useRouter();
   const SignupHandler = async (e) => {
     e.preventDefault();
     try {
       await createUserWithEmailAndPassword(auth, Email, Password);
       const user = auth.currentUser;
-
+      console.log(user)
+      // let data = {
+      //   Email: Email,
+      //   UserName: Username,
+      //   Password: Password,
+      // }
+      // await addDoc(Refdata, data)
       if (user) {
         await setDoc(doc(firestore, "user", user.uid), {
-          Email: user.Email,
           UserName: Username,
-          Password: Password,
+          Email: Email,
+          Password: Password
+          // Use the Email state variable instead of user.Email
         });
       }
+      notify();
       Setusername("");
       SetPassword("");
       Setemail("");
-      notify();
       route.push("/login");
     } catch (error) {
       notifyerror();

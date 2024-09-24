@@ -187,6 +187,7 @@ header {
 .sercontent {
   margin: 2% 1% 2% 1%;
   width: 31%;
+  height: 200px;
   /* height: 150px; */
   cursor: pointer;
 }
@@ -924,6 +925,10 @@ header {
   display: flex;
   align-items: center;
   margin-top: 20px;
+}
+
+.footerblog {
+  margin-top: 8%;
 }
 
 .social-icons a {

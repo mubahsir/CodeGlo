@@ -15,9 +15,10 @@ const Loginusernmae = ({ setloginvalu }) => {
     Setdropdown(!Dropdown);
   };
   const Signout = () => {
-    auth.signOut().then(() => {});
+    auth.signOut().then(() => { });
   };
   return (
+
     <div>
       <div className="">
         {/* Button to toggle dropdown menu */}
@@ -33,9 +34,8 @@ const Loginusernmae = ({ setloginvalu }) => {
         {/* Dropdown menu */}
         <div
           id="dropdownAvatar"
-          className={`z-10 ${
-            Dropdown ? "block" : "hidden"
-          } absolute right-2.5 bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600`}
+          className={`z-10 ${Dropdown ? "block" : "hidden"
+            } absolute right-2.5 bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600`}
         >
           <div className="px-4 py-3 text-sm text-gray-900 dark:text-white">
             <div>{Data.loginusernmae}</div>

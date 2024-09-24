@@ -46,10 +46,10 @@ function Workedwith() {
           <img src="8.jpg" alt="" />
         </div>
         <div className={`workeditem ${scrollValue > 200 ? "workeditem2" : ""}`}>
-          <img src="8.jpg" alt="" />
+          <img src="9.jpg" alt="" />
         </div>
         <div className={`workeditem ${scrollValue > 200 ? "workeditem2" : ""}`}>
-          <img src="8.jpg" alt="" />
+          <img src="10.jpg" alt="" />
         </div>
       </div>
       <div className="workbtn pb-10">

@@ -47,16 +47,14 @@ const MarketLeader = () => {
         <div className="marketitem">
           <div className="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-11/12	">
             <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
-              <img src="cardimg1.avif" alt="card-image" />
+              <img src="/a4.jpg" alt="card-image" />
             </div>
             <div className="p-4">
               <h6 className="mb-2 text-slate-800 text-xl font-semibold">
                 Ava Morales
               </h6>
               <p className="text-slate-600 leading-normal font-light">
-                The place is close to Barceloneta Beach and bus stop just 2 min
-                by walk and near to &quot;Naviglio&quot; where you can enjoy the
-                main night life in Barcelona.
+                The deliverables are meticulously crafted, showcasing a high level of expertise in web and app development. Every detail is considered, resulting in a polished final product that aligns perfectly with the client&quot;s vision.
               </p>
             </div>
             <div className="px-4 pb-4 pt-0 mt-2"></div>
@@ -65,16 +63,14 @@ const MarketLeader = () => {
         <div className="marketitem">
           <div className="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-11/12	">
             <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
-              <img src="cardimg6.avif" alt="card-image" />
+              <img src="b2.jpg" alt="card-image" />
             </div>
             <div className="p-4">
               <h6 className="mb-2 text-slate-800 text-xl font-semibold">
                 Ethan Thompson
               </h6>
               <p className="text-slate-600 leading-normal font-light">
-                The place is close to Barceloneta Beach and bus stop just 2 min
-                by walk and near to &quot;Naviglio&quot; where you can enjoy the
-                main night life in Barcelona.
+                You consistently demonstrate creativity and innovation, offering unique solutions that enhance functionality and user experience. This not only meets the current needs but anticipates future requirements
               </p>
             </div>
             <div className="px-4 pb-4 pt-0 mt-2"></div>
@@ -83,16 +79,14 @@ const MarketLeader = () => {
         <div className="marketitem">
           <div className="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-11/12	">
             <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
-              <img src="cardimg3.jpg" alt="card-image" />
+              <img src="a17.jpg" alt="card-image" />
             </div>
             <div className="p-4">
               <h6 className="mb-2 text-slate-800 text-xl font-semibold">
                 Emily Patel
               </h6>
               <p className="text-slate-600 leading-normal font-light">
-                The place is close to Barceloneta Beach and bus stop just 2 min
-                by walk and near to &quot;Naviglio&quot; where you can enjoy the
-                main night life in Barcelona.
+                Rigorous testing processes are employed to ensure that all products are bug-free and perform flawlessly across various devices and platforms. You prioritize quality assurance to deliver reliable and robust solutions.
               </p>
             </div>
             <div className="px-4 pb-4 pt-0 mt-2"></div>
@@ -101,16 +95,14 @@ const MarketLeader = () => {
         <div className="marketitem">
           <div className="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-11/12	">
             <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
-              <img src="cardimg5.jpg" alt="card-image" />
+              <img src="b8.jpg" alt="card-image" />
             </div>
             <div className="p-4">
               <h6 className="mb-2 text-slate-800 text-xl font-semibold">
                 Liam Reynolds
               </h6>
               <p className="text-slate-600 leading-normal font-light">
-                The place is close to Barceloneta Beach and bus stop just 2 min
-                by walk and near to &quot;Naviglio&quot; where you can enjoy the
-                main night life in Barcelona.
+                The designs are not only aesthetically pleasing but also highly functional, providing an intuitive user experience. Feedback from users is actively sought and incorporated into the development process.
               </p>
             </div>
             <div className="px-4 pb-4 pt-0 mt-2"></div>
@@ -119,16 +111,14 @@ const MarketLeader = () => {
         <div className="marketitem">
           <div className="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-11/12	">
             <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
-              <img src="cardimg2.jpg" alt="card-image" />
+              <img src="a14.webp" alt="card-image" />
             </div>
             <div className="p-4">
               <h6 className="mb-2 text-slate-800 text-xl font-semibold">
                 Sophia Rodriguez
               </h6>
               <p className="text-slate-600 leading-normal font-light">
-                The place is close to Barceloneta Beach and bus stop just 2 min
-                by walk and near to &quot;Naviglio&quot; where you can enjoy the
-                main night life in Barcelona.
+                The work delivered is of the highest caliber, showcasing exceptional craftsmanship and attention to detail. The final product not only meets but surpasses all outlined requirements, demonstrating a deep understanding of best practices in web development, app development, and digital marketing
               </p>
             </div>
             <div className="px-4 pb-4 pt-0 mt-2"></div>
@@ -137,16 +127,14 @@ const MarketLeader = () => {
         <div className="marketitem">
           <div className="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-11/12	">
             <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
-              <img src="cardimg4.avif" alt="card-image" />
+              <img src="b11.jpg" alt="card-image" />
             </div>
             <div className="p-4">
               <h6 className="mb-2 text-slate-800 text-xl font-semibold">
                 Julian Styles
               </h6>
               <p className="text-slate-600 leading-normal font-light">
-                The place is close to Barceloneta Beach and bus stop just 2 min
-                by walk and near to &quot;Naviglio&quot; where you can enjoy the
-                main night life in Barcelona.
+                You prioritize understanding the unique needs and goals of each client, tailoring your services to deliver personalized solutions. This dedication to client satisfaction leads to strong, lasting relationships and repeat business.
               </p>
             </div>
             <div className="px-4 pb-4 pt-0 mt-2"></div>

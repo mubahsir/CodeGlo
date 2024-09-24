@@ -170,9 +170,8 @@ function Navbar() {
           <span>{Login == null ? <Withoutlogin /> : <Loginusernmae />}</span>
         </nav>
         <div
-          className={` transition-all	 " ${
-            Mouse === "enter" ? "navbaricon servicehover" : "hidden "
-          }`}
+          className={` transition-all	 " ${Mouse === "enter" ? "navbaricon servicehover" : "hidden "
+            }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -229,7 +228,7 @@ function Navbar() {
             }}
           >
             <Link href={"/Blockchain-Technoly"}>
-              <h1 className="sercontenth1  ">Blockchain Technoly</h1>
+              <h1 className="sercontenth1  ">Blockchain Technology</h1>
               <p>
                 CodeGlo, the top-ranked provider of blockchain services, has the
                 expertise to assist you in creating effective solutions using
@@ -319,9 +318,8 @@ function Navbar() {
         </div>
 
         <div
-          className={` transition-all	" ${
-            Mouse === "product" ? "servicehover navbaricon" : " hidden"
-          }`}
+          className={` transition-all	" ${Mouse === "product" ? "servicehover navbaricon" : " hidden"
+            }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -361,9 +359,8 @@ function Navbar() {
         </div>
 
         <div
-          className={` transition-all	" ${
-            Mouse === "company" ? "servicehover navbaricon" : "hidden"
-          }`}
+          className={` transition-all	" ${Mouse === "company" ? "servicehover navbaricon" : "hidden"
+            }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -453,9 +450,8 @@ function Navbar() {
         </div>
 
         <div
-          className={` transition-all	" ${
-            Mouse === "resource" ? "servicehover navbaricon" : "hidden"
-          }`}
+          className={` transition-all	" ${Mouse === "resource" ? "servicehover navbaricon" : "hidden"
+            }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -484,9 +480,8 @@ function Navbar() {
           </div>
         </div>
         <div
-          className={` transition-all	" ${
-            Mouse === "review" ? "servicehover navbaricon" : "hidden"
-          }`}
+          className={` transition-all	" ${Mouse === "review" ? "servicehover navbaricon" : "hidden"
+            }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}

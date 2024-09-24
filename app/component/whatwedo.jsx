@@ -31,7 +31,7 @@ const Whatwedo = () => {
       </div>
       <div className="whatweitemmain ">
         <div className=" whatwedoitem">
-          <Link href={"Web-Development"} id="whatwechangecolor">
+          <Link href={"Mobile-App-Development"} id="whatwechangecolor">
             <div id="firstspanwhat" className=" ">
               Mobile App Development
             </div>{" "}
@@ -47,7 +47,7 @@ const Whatwedo = () => {
         </div>
 
         <div className=" whatwechangecolor whatwedoitem">
-          <Link href={"Mobile-App-Development"} id="whatwechangecolor">
+          <Link href={"Web-Development"} id="whatwechangecolor">
             <div id="firstspanwhat" className=" ">
               Web Development
             </div>{" "}
@@ -85,9 +85,9 @@ const Whatwedo = () => {
         </div>
 
         <div className=" whatwechangecolor whatwedoitem">
-          <Link href={"Mobile-App-Development"} id="whatwechangecolor">
+          <Link href={"/Blockchain-Technoly"} id="whatwechangecolor">
             <div id="firstspanwhat" className=" ">
-              Blockchain Technoly Service
+              Blockchain Technology Service
             </div>{" "}
             <div className="secondspanwhat">
               <div>
@@ -104,7 +104,7 @@ const Whatwedo = () => {
         </div>
 
         <div className=" whatwedoitem" id="whatwechangecolor">
-          <Link href={"Mobile-App-Development"} id="whatwechangecolor">
+          <Link href={"/IT-Security"} id="whatwechangecolor">
             <div id="firstspanwhat" className=" ">
               Cloud Infrastructure
             </div>{" "}
@@ -123,7 +123,7 @@ const Whatwedo = () => {
         </div>
 
         <div className="whatwechangecolor whatwedoitem">
-          <Link href={"Mobile-App-Development"} id="whatwechangecolor">
+          <Link href={"/IT-Security"} id="whatwechangecolor">
             <div id="firstspanwhat" className=" ">
               IT Security
             </div>{" "}
