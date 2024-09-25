@@ -50,7 +50,47 @@ const Page = () => {
           </div>
         </div>
 
-        <div className="appdevelopment Orbitron">
+        <div className="appdevelopment">
+          <h1 className="RobotoMono ">Mobile App Development Services We</h1>
+          <div className="services">
+            <div className="service">
+              <h2 className="RobotoMono">Progressive Web App Development</h2>
+              <p>
+                Our mobile app development team can build efficient and secure
+                native apps for your business. We use the technical strength of
+                Xcode coupled with the adaptability of Swift for iOS, and use
+                flexible dev .
+              </p>
+            </div>
+            <div className="service">
+              <h2 className="RobotoMono">ECommerce Solutions</h2>
+              <p>
+                Thanks to technologies such as React Native, Flutter, and Ionic
+                that offer a blend of native and web app technologies, we also
+                develop robust and secure hybrid apps that function smoothly
+                across platforms.
+              </p>
+            </div>
+            <div className="service">
+              <h2 className="RobotoMono">Enterprise Web App Development</h2>
+              <p>
+                Our progressive web apps offer your users the comfort and
+                capabilities of a native app experience on any device or
+                platform, with technologies such as Angular and React.
+              </p>
+            </div>
+            <div className="service">
+              <h2 className="RobotoMono">Audit and Security</h2>
+              <p>
+                We don’t stop with just development: We offer multiple design
+                choices for the app interface and icon, the complete app
+                structure. For our complete tech stack.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        {/* <div className="appdevelopment Orbitron">
           <h1 className="RobotoMono ">
             Mobile App Development Services We Offer
           </h1>
@@ -100,7 +140,7 @@ const Page = () => {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="exerptice">
           <div className="mainexpertice text-black">

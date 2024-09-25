@@ -25,7 +25,7 @@ function Workedwith() {
           <img src="1.jpg" alt="" />
         </div>
         <div className={`workeditem ${scrollValue > 200 ? "workeditem2" : ""}`}>
-          <img src="9.jpg" alt="" />
+          <img src="20.svg" alt="" />
         </div>
         <div className={`workeditem ${scrollValue > 200 ? "workeditem2" : ""}`}>
           <img src="3.jpg" alt="" />

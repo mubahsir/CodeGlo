@@ -73,8 +73,7 @@ const Cloud = () => {
                 From helping you with your migration to the cloud and the
                 management of your cloud infrastructure, platforms and software,
                 through to providing analytical reports as part of our data
-                services, CodeGlo can help with all aspects of your journey to
-                the cloud.
+                services.
               </p>
             </div>
             <div className="serviceclo">
@@ -156,15 +155,14 @@ const Cloud = () => {
               <h3>Solution Architecture design</h3>
               <p>
                 Fabricate a technically designed customized cloud solution, by
-                implementing the proposed plans keeping in mind the identified
-                requirements.
+                implementing the proposed in mind the identified requirements.
               </p>
             </div>
             <div className="grid-itemfl">
               <span>
                 <FaCog />{" "}
               </span>
-              <h3>Implementation & Production deployment</h3>
+              <h3>Implementation & deployment</h3>
               <p>
                 We configure and implement orchestration platforms and cloud
                 automation with DevOps integration and facilitate the management
@@ -190,8 +188,7 @@ const Cloud = () => {
               <p>
                 Migrating to the cloud? Security is often overlooked.
                 Understanding your risk and compliance requirements is critical.
-                CodeGlo provides the expertise to minimize the risks of cloud
-                migration.
+                CodeGlo provides the expertise.
               </p>
             </div>
             <div className="grid-itemfl">

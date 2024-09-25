@@ -78,7 +78,6 @@ const Page = () => {
               <span className=" ">
                 We&apos;re like kids in a candy shop. We&apos;re convinced that
                 every time we blink, we&apos;re missing an exciting new tech
-                development so we are constantly on
               </span>
             </div>
             <div className="   aboutitem">
@@ -86,7 +85,7 @@ const Page = () => {
                 <TbBabyCarriageFilled />
               </span>
               <span id="textaboutitem" className=" ">
-                shuttle serviceCompany shuttle services{" "}
+                shuttle serviceCompany{" "}
               </span>
               <br />{" "}
               <span className=" ">
@@ -144,7 +143,8 @@ const Page = () => {
               <br />{" "}
               <span className=" ">
                 Balance is key to a productive mind. Yoga sessions by our COO is
-                sure to rid you of that coding induced brain drain
+                sure to rid you of that coding induced brain drain & so
+                ijmprovent your mind amazing service.
               </span>
             </div>
             <div className="   aboutitem  ">

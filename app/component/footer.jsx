@@ -108,7 +108,7 @@ const Footer = () => {
           <h2 className=" ">COMPANY</h2>
 
           <p>
-            <Link href="/aboutUs">aboutUs</Link>
+            <Link href="/aboutUs">AboutUs</Link>
           </p>
           <p>
             <Link href="/careers"> Careers </Link>

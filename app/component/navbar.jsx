@@ -170,8 +170,9 @@ function Navbar() {
           <span>{Login == null ? <Withoutlogin /> : <Loginusernmae />}</span>
         </nav>
         <div
-          className={` transition-all	 " ${Mouse === "enter" ? "navbaricon servicehover" : "hidden "
-            }`}
+          className={` transition-all	 " ${
+            Mouse === "enter" ? " servicehover" : "hidden "
+          }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -278,10 +279,11 @@ function Navbar() {
             <Link href={"/services-online-reputation-management"}>
               <h1 className="sercontenth1  ">Online Repotation Managment</h1>
               <p>
-                A company&apos;s market value is at least 50% based on its online
-                reputation. With the help of CodeGlo&apos;s Online Reputation
-                Management services, take control of your reputation and create
-                a favorable brand image as well as Personal Reputation.
+                A company&apos;s market value is at least 50% based on its
+                online reputation. With the help of CodeGlo&apos;s Online
+                Reputation Management services, take control of your reputation
+                and create a favorable brand image as well as Personal
+                Reputation.
               </p>
             </Link>
           </div>
@@ -318,8 +320,9 @@ function Navbar() {
         </div>
 
         <div
-          className={` transition-all	" ${Mouse === "product" ? "servicehover navbaricon" : " hidden"
-            }`}
+          className={` transition-all	" ${
+            Mouse === "product" ? "servicehover " : " hidden"
+          }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -359,8 +362,9 @@ function Navbar() {
         </div>
 
         <div
-          className={` transition-all	" ${Mouse === "company" ? "servicehover navbaricon" : "hidden"
-            }`}
+          className={` transition-all	" ${
+            Mouse === "company" ? "servicehover " : "hidden"
+          }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -450,8 +454,9 @@ function Navbar() {
         </div>
 
         <div
-          className={` transition-all	" ${Mouse === "resource" ? "servicehover navbaricon" : "hidden"
-            }`}
+          className={` transition-all	" ${
+            Mouse === "resource" ? "servicehover " : "hidden"
+          }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -480,8 +485,9 @@ function Navbar() {
           </div>
         </div>
         <div
-          className={` transition-all	" ${Mouse === "review" ? "servicehover navbaricon" : "hidden"
-            }`}
+          className={` transition-all	" ${
+            Mouse === "review" ? "servicehover " : "hidden"
+          }`}
           onMouseLeave={() => {
             Setmouse("leave");
           }}
@@ -507,12 +513,7 @@ function Navbar() {
             }}
           >
             <Link href={"/testimonials"}>
-              <h1 className="sercontenth1  ">
-                See Reviews{" "}
-                <span>
-                  <FaStar /> <FaStar /> <FaStar /> <FaStar /> <FaStar />
-                </span>
-              </h1>
+              <h1 className="sercontenth1  ">See Reviews </h1>
               <p>
                 Read firsthand accounts from customers who have purchased and
                 used our products or services.

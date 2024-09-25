@@ -49,7 +49,7 @@ const Page = () => {
         </div>
         <div className="whatweitemmain ">
           <div className=" whatwedoitem">
-            <Link href={"Web-Development"} id="whatwechangecolor">
+            <Link href={"/Mobile-App-Development"} id="whatwechangecolor">
               <div id="firstspanwhat" className=" ">
                 Mobile App Development
               </div>{" "}
@@ -65,7 +65,7 @@ const Page = () => {
           </div>
 
           <div className=" whatwechangecolor whatwedoitem">
-            <Link href={"Mobile-App-Development"} id="whatwechangecolor">
+            <Link href={"/Web-Development"} id="whatwechangecolor">
               <div id="firstspanwhat" className=" ">
                 Web Development
               </div>{" "}

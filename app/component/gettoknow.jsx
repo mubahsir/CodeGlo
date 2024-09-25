@@ -12,14 +12,13 @@ const Gettoknow = ({ know }) => {
               <h1 className="RobotoMono">Cluych</h1>
             </div>
             <div className="px-6 py-4">
-              <div className="font-bold  text-xl mb-2">
+              <div className="font-bold flex flex-col	justify-center	  text-xl mb-2">
                 <span className="text-black	">CodeGlo Tech & Marketing</span>
-                <span className="flex">
+                <span className="flex relative left-32	">
                   <IoStarSharp className="text-yellow-500" />
                   <IoStarSharp className="text-yellow-500" />
                   <IoStarSharp className="text-yellow-500" />
-                  <IoStarSharp className="text-yellow-500 mr-3" /> |{" "}
-                  <span className="ml-3 text-yellow-500">6 reviews</span>{" "}
+                  <IoStarSharp className="text-yellow-500 mr-3" />{" "}
                 </span>
               </div>
               <p className="text-gray-700 text-base">

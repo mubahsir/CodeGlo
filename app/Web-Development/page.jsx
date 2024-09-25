@@ -60,39 +60,30 @@ const Page = () => {
         </p>
       </div>
 
-
-
-
       <div className="appdevelopment">
         <h1 className="RobotoMono ">
-          Mobile App Development Services We Offer</h1>
+          Mobile App Development Services We Offer
+        </h1>
         <div className="services">
           <div className="service">
-
-            <h2 className="RobotoMono">
-              Progressive Web App Development
-            </h2>
+            <h2 className="RobotoMono">Progressive Web App Development</h2>
             <p>
               We bring the speed, features, sophistication, and performance of
               native apps to any browser, on any platform with our flexible but
               dependable progressive web apps that offer a smooth, engaging user
-              experience. For our complete tech stack,
-              <a href="#">click here.</a>
+              experience.
             </p>
           </div>
           <div className="service">
-
             <h2 className="RobotoMono">ECommerce Solutions</h2>
             <p>
               We help you build an eCommerce store, a website, and even a blog
               for your business, complete with a shopping cart, product
               listings, custom payments, and secure payment and shipping gateway
-              integrations. For our complete tech stack,{" "}
-              <a href="#">click here.</a>
+              integrations.
             </p>
           </div>
           <div className="service">
-
             <h2 className="RobotoMono">Enterprise Web App Development</h2>
             <p>
               We offer highly scalable apps that remove hierarchical
@@ -100,11 +91,9 @@ const Page = () => {
               management systems based on some of the best platforms in the
               industry (Drupal, WordPress, Moodle, Joomla, and so on) to payment
               apps and inventory trackers.
-              <a href="#">click here.</a>
             </p>
           </div>
           <div className="service">
-
             <h2 className="RobotoMono">Audit and Security</h2>
             <p>
               The CodeGlo development team uses testing, simulations,
@@ -129,7 +118,7 @@ const Page = () => {
               native apps to any browser, on any platform with our flexible but
               dependable progressive web apps that offer a smooth, engaging user
               experience. For our complete tech stack,
-              <a href="#">click here.</a>
+              
             </p>
           </div>
           <div className="service">
@@ -140,7 +129,7 @@ const Page = () => {
               for your business, complete with a shopping cart, product
               listings, custom payments, and secure payment and shipping gateway
               integrations. For our complete tech stack,{" "}
-              <a href="#">click here.</a>
+              
             </p>
           </div>
           <div className="service">
@@ -153,7 +142,7 @@ const Page = () => {
               industry (Drupal, WordPress, Moodle, Joomla, and so on) to payment
               apps and inventory trackers, we’ve built some of the biggest yet
               most dependable apps for our clients. For our complete tech stack,
-              <a href="#">click here.</a>
+              
             </p>
           </div>
           <div className="service">

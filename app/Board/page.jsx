@@ -135,10 +135,6 @@ const Board = () => {
       {/* phone  */}
 
       <div className="containerpho">
-        <div className="descriptionpho">
-          Simplify your work processes with the Purchase Requisition App and
-          unlock the maximum potential of your business.
-        </div>
         <div className="phone">
           <img src="/2.webp" />
         </div>

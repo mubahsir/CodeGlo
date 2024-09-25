@@ -141,7 +141,7 @@ function Index() {
 __________________________________________ */}
 
       <div className="ul-li-cn">
-        <div className="column-coin">
+        <div className="column-coin ">
           <h2>Developers</h2>
           <ul>
             <li>
@@ -164,7 +164,7 @@ __________________________________________ */}
             </li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>
               <a href="#">Joomla Developers</a>
@@ -186,7 +186,7 @@ __________________________________________ */}
             </li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>
               <a href="#">.NET Developers</a>
@@ -208,7 +208,7 @@ __________________________________________ */}
             </li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>
               <a href="#">Software Architect</a>
@@ -221,7 +221,7 @@ __________________________________________ */}
             </li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin ">
           <h2>Designers</h2>
           <ul>
             <li>UI UX Designers</li>
@@ -229,26 +229,26 @@ __________________________________________ */}
             <li>Brand Designers</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Product Designers</li>
             <li>Mobile App Designers</li>
             <li>Web Designers</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Sketch Experts</li>
             <li>Illustrators</li>
             <li>Motion Desingers</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Freelance Designers</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin ">
           <h2>BA & QA Analysts</h2>
           <ul>
             <li>Automation Test Engineer</li>
@@ -256,27 +256,27 @@ __________________________________________ */}
             <li>Business Analyst</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>QA Tester</li>
             <li>Quality Analyst</li>
             <li>Software Test Architect</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Software Test Engineer</li>
             <li>Software Test Manager</li>
             <li>Software Testing Analyst</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Freelance Software Tester</li>
           </ul>
         </div>
 
-        <div className="column-coin">
+        <div className="column-coin ">
           <h2>Project Managers</h2>
 
           <ul>
@@ -284,26 +284,26 @@ __________________________________________ */}
             <li>Project Managers</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Agile Project Managers</li>
             <li>Scrum Masters</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>JIRA Experts</li>
             <li>Project Management Consultants</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Startup Consultants</li>
             <li>Freelance Project Managers</li>
           </ul>
         </div>
 
-        <div className="column-coin">
+        <div className="column-coin ">
           <h2>Product Managers</h2>
 
           <ul>
@@ -311,24 +311,24 @@ __________________________________________ */}
             <li>Product Managers</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Product Consultants</li>
             <li>Contract Product Managers</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Directors of Products</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Product Strategy Consultants</li>
             <li>Freelance Product Managers</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin ">
           <h2>DevOps & InfoSec</h2>
           <ul>
             <li>DevOps Engineer</li>
@@ -336,21 +336,21 @@ __________________________________________ */}
             <li>Cloud Architect</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>CloudOps Manager</li>
             <li>CloudOps Engineer</li>
             <li>InfoSec Manager</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>InfoSec Engineer</li>
             <li>IT Manager</li>
             <li>Cloud IT Manager</li>
           </ul>
         </div>
-        <div className="column-coin">
+        <div className="column-coin techfoot">
           <ul>
             <li>Freelance DevOps Engineer</li>
             <li>Freelance InfoSec Engineer</li>
