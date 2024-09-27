@@ -51,7 +51,7 @@ const Page = () => {
         </div>
 
         <div className="appdevelopment">
-          <h1 className="RobotoMono ">Mobile App Development Services We</h1>
+          <h1 className="RobotoMono ">Mobile App Development Services We Offer</h1>
           <div className="services">
             <div className="service">
               <h2 className="RobotoMono">Progressive Web App Development</h2>
@@ -84,7 +84,7 @@ const Page = () => {
               <p>
                 We don’t stop with just development: We offer multiple design
                 choices for the app interface and icon, the complete app
-                structure. For our complete tech stack.
+                structure. For our complete tech stack easy and beautiful design .
               </p>
             </div>
           </div>
@@ -210,7 +210,7 @@ const Page = () => {
               <h3 className="RobotoMono">Design</h3>
               <p>
                 We create eye catchy design with the help of latest tools of
-                designing.
+                designing & they are Beautiful.
               </p>
             </div>
             <div className="process-item">
@@ -258,7 +258,7 @@ const Page = () => {
                 <TfiHeadphoneAlt />
               </span>
               <h3 className="RobotoMono">Support & Maintenance</h3>
-              <p>We give support & answer every query after deployment.</p>
+              <p>We give support & answer every query after deployment.Our suuport is very Good.</p>
             </div>
           </div>
         </div>

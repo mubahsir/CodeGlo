@@ -59,7 +59,7 @@ const Page = () => {
                 <TbFlag2Filled />
               </span>
               <span id="textaboutitem" className=" ">
-                GoalGoal linked bonuses{" "}
+                Goal linked bonuses{" "}
               </span>
               <br />{" "}
               <span className=" ">
@@ -72,7 +72,7 @@ const Page = () => {
                 <TbChessBishopFilled />
               </span>
               <span id="textaboutitem" className=" ">
-                WorshopsWorkshops & Meet -ups
+                Workshops & Meet-ups
               </span>
               <br />{" "}
               <span className=" ">
@@ -85,12 +85,12 @@ const Page = () => {
                 <TbBabyCarriageFilled />
               </span>
               <span id="textaboutitem" className=" ">
-                shuttle serviceCompany{" "}
+                Shuttle Service Company{" "}
               </span>
               <br />{" "}
               <span className=" ">
                 Daily pick-up and drop services are organized for employees who
-                don&apos;t own personal vehicles for easy and safe commute
+                don&apos;t own personal vehicles for easy.
               </span>
             </div>
             <div className="   aboutitem   ">
@@ -98,7 +98,7 @@ const Page = () => {
                 <TbSwimming />
               </span>
               <span id="textaboutitem" className=" ">
-                Poolside meetingsPoolside meetings
+                Poolside Meetings
               </span>
               <br />{" "}
               <span className=" ">
@@ -112,7 +112,7 @@ const Page = () => {
               </span>
               <span id="textaboutitem" className=" ">
                 {" "}
-                Cool tool libraryCool tool library
+                Library Cool tool library
               </span>
               <br />{" "}
               <span className=" ">
@@ -125,7 +125,7 @@ const Page = () => {
                 <TbCooker />
               </span>
               <span id="textaboutitem" className=" ">
-                FoodYummy home -made meals{" "}
+                FoodYummy home-made meals{" "}
               </span>
               <br />{" "}
               <span className=" ">
@@ -138,7 +138,7 @@ const Page = () => {
                 <TbGymnastics />
               </span>
               <span id="textaboutitem" className=" ">
-                YogaYoga
+                Yoga
               </span>
               <br />{" "}
               <span className=" ">
@@ -152,7 +152,7 @@ const Page = () => {
                 <TbBallFootballOff />
               </span>
               <span id="textaboutitem" className=" ">
-                FoosballFoosball & Cricket wars{" "}
+                Foosball & Cricket wars{" "}
               </span>
               <br />{" "}
               <span className=" ">
@@ -166,7 +166,7 @@ const Page = () => {
                 <TbHealthRecognition />
               </span>
               <span id="textaboutitem" className=" ">
-                HealthPersonal health and fitness{" "}
+                Personal health and fitness{" "}
               </span>
               <br />{" "}
               <span className=" ">

@@ -17,12 +17,12 @@ const Footer = () => {
       <div className="footercontainer">
         <div className="section Orbiton">
           <h2 className=" ">GLOBAL HEADQUARTERS</h2>
-          <p>342 N Water St</p>
-          <p>Suite 600</p>
-          <p>Milwaukee, WI 53203</p>
+          <p>6001 W Parmer Ln,nSt</p>
+          <p>370 PMB 2000</p>
+          <p>Austin, TX 7827,Austin, Texas</p>
           <p>USA</p>
           <p>+1 737-282-8626</p>
-          <p>info@codeglo.com</p>
+          <p>Contact@codeglodevelopment.com</p>
 
           <div className="social-icons">
             <Link
@@ -74,14 +74,14 @@ const Footer = () => {
           </p>
           <p>
             {" "}
-            <Link href="/Web-Development">Mobile App Development</Link>
+            <Link href="/Web-Development">Web Development</Link>
           </p>
           <p>
             <Link href="/Services-Cloud">Cloud Infrastructure</Link>
           </p>
           <p>
             {" "}
-            <Link href="/testimonials">Reviews</Link>
+            <Link href="/Blockchain-Technoly">BlockChain</Link>
           </p>
           <p>
             <Link href="/IT-Security">IT Security</Link>
@@ -121,7 +121,7 @@ const Footer = () => {
             <Link href="/resources">RPA Website Case Study</Link>
           </p>
           <p>
-            <Link href="/ContactUS">Contact Us</Link>
+            <Link href="/ContactUs">Contact Us</Link>
           </p>
         </div>
       </div>

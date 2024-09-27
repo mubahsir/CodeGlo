@@ -69,7 +69,7 @@ const Ourculture = () => {
         </div>
       </div>
       <div className="workbtn">
-        <Link href={"abooutus/"}>
+        <Link href={"aboutUs"}>
           <button
             id="btn"
             className="relative rounded-full h-12 w-40 overflow-hidden border border-cyan-500	 text-cyan-500	 shadow-2xl transition-all duration-200 before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:m-auto before:h-0 before:w-0 before:rounded-sm before:bg-cyan-500	 before:duration-300 before:ease-out hover:text-white hover:shadow-indigo-600 hover:before:h-40 hover:before:w-40 hover:before:opacity-80"

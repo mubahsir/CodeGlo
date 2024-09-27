@@ -62,7 +62,7 @@ const Page = () => {
 
       <div className="appdevelopment">
         <h1 className="RobotoMono ">
-          Mobile App Development Services We Offer
+          Web Development Services We Offer
         </h1>
         <div className="services">
           <div className="service">
@@ -245,7 +245,7 @@ const Page = () => {
             <h3 className="RobotoMono">Design</h3>
             <p>
               We create eye catchy design with the help of latest tools of
-              designing.
+              designing & they are Beautiful.
             </p>
           </div>
           <div className="process-item">
@@ -293,7 +293,7 @@ const Page = () => {
               <TfiHeadphoneAlt />
             </span>
             <h3 className="RobotoMono">Support & Maintenance</h3>
-            <p>We give support & answer every query after deployment.</p>
+            <p>We give support & answer every query after deployment.Our suuport is very Good.</p>
           </div>
         </div>
       </div>

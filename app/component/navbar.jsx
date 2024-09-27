@@ -115,7 +115,7 @@ function Navbar() {
                   }}
                 >
                   {" "}
-                  <span className="   linavhover">REVIWES</span>{" "}
+                  <span className="   linavhover">REVIEWES</span>{" "}
                   <span className="navline navlinere"></span>
                 </li>
               </Link>
@@ -137,7 +137,7 @@ function Navbar() {
                   }}
                 >
                   {" "}
-                  <span className="   linavhover"> PORTOFLIO</span>{" "}
+                  <span className="   linavhover"> PORTFOLIO</span>{" "}
                   <span className="navline navlinepo"></span>
                 </li>
               </Link>
@@ -277,7 +277,7 @@ function Navbar() {
             }}
           >
             <Link href={"/services-online-reputation-management"}>
-              <h1 className="sercontenth1  ">Online Repotation Managment</h1>
+              <h1 className="sercontenth1  ">Online Reputation Managment</h1>
               <p>
                 A company&apos;s market value is at least 50% based on its
                 online reputation. With the help of CodeGlo&apos;s Online

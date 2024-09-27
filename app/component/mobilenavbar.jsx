@@ -34,7 +34,7 @@ function Mobilenavbar() {
   };
   return (
     <div className="App">
-      <header className={`App-header ${Scrollvalue > 670 ? "bg-black" : ""}`}>
+      <header className={`App-header ${Scrollvalue > 300 ? "bg-black" : ""}`}>
         <nav className={`navbar `}>
           {/* logo */}
           <Link href={"/"} className={`logo`}>
@@ -46,9 +46,8 @@ function Mobilenavbar() {
             className={`navMenu overflow-y-scroll	 ${Isstate ? "active" : ""}`}
           >
             <li
-              className={`overflow-hidden ${
-                Product === "service" ? "" : "h-8"
-              } `}
+              className={`overflow-hidden ${Product === "service" ? "" : "h-8"
+                } `}
             >
               <span className="flex 	 flex-row	 ">
                 <Link
@@ -62,12 +61,11 @@ function Mobilenavbar() {
                     }
                   }}
                 >
-                  Service
+                  Services
                 </Link>
                 <span
-                  className={`mt-1.5 ml-5 ${
-                    Product === "service" ? "rotate-180 mb-1.5" : "block"
-                  }`}
+                  className={`mt-1.5 ml-5 ${Product === "service" ? "rotate-180 mb-1.5" : "block"
+                    }`}
                   onClick={() => {
                     if (Product === "hide") {
                       Setvproduct("service");
@@ -129,9 +127,8 @@ function Mobilenavbar() {
                   Product
                 </Link>
                 <span
-                  className={`mt-1.5 ml-5 ${
-                    Product === "show" ? "rotate-180 mb-1.5" : "block"
-                  }`}
+                  className={`mt-1.5 ml-5 ${Product === "show" ? "rotate-180 mb-1.5" : "block"
+                    }`}
                   onClick={() => {
                     if (Product === "hide") {
                       Setvproduct("show");
@@ -165,14 +162,13 @@ function Mobilenavbar() {
                   }
                 }}
               >
-                Potfolio
+                Portfolio
               </Link>
             </li>
 
             <li
-              className={`overflow-hidden ${
-                Product === "company" ? "" : "h-8"
-              } `}
+              className={`overflow-hidden ${Product === "company" ? "" : "h-8"
+                } `}
             >
               <span className="flex 	 flex-row	 ">
                 <Link
@@ -189,9 +185,8 @@ function Mobilenavbar() {
                   Company
                 </Link>
                 <span
-                  className={`mt-1.5 ml-5 ${
-                    Product === "company" ? "rotate-180 mb-1.5" : "block"
-                  }`}
+                  className={`mt-1.5 ml-5 ${Product === "company" ? "rotate-180 mb-1.5" : "block"
+                    }`}
                   onClick={() => {
                     if (Product === "hide") {
                       Setvproduct("company");
@@ -217,9 +212,9 @@ function Mobilenavbar() {
                     <li>About Us</li>
                   </Link>
                   <Link href={"/skill-sets"}>
-                    <li>Technoligy & Skill Set</li>
+                    <li>Technology & Skill Set</li>
                   </Link>
-                  <Link href={"//careers"}>
+                  <Link href={"/careers"}>
                     <li>Careers</li>
                   </Link>
                   <Link href={"/ContactUs"}>
@@ -233,18 +228,16 @@ function Mobilenavbar() {
             </li>
 
             <li
-              className={`overflow-hidden ${
-                Product === "Reviews" ? "" : "h-8"
-              } `}
+              className={`overflow-hidden ${Product === "Reviews" ? "" : "h-8"
+                } `}
             >
               <span className="flex 	 flex-row	 ">
                 <Link href={"testimonials"} className={`navLink  `}>
                   Reviews
                 </Link>
                 <span
-                  className={`mt-1.5 ml-5 ${
-                    Product === "Reviews" ? "rotate-180 mb-1.5" : "block"
-                  }`}
+                  className={`mt-1.5 ml-5 ${Product === "Reviews" ? "rotate-180 mb-1.5" : "block"
+                    }`}
                   onClick={() => {
                     if (Product === "hide") {
                       Setvproduct("Reviews");
@@ -266,18 +259,16 @@ function Mobilenavbar() {
               </ul>
             </li>
             <li
-              className={`overflow-hidden ${
-                Product === "resour" ? "" : "h-8"
-              } `}
+              className={`overflow-hidden ${Product === "resour" ? "" : "h-8"
+                } `}
             >
               <span className="flex 	 flex-row	 ">
                 <Link href={"ContactUs"} className={`navLink  `}>
                   Resources
                 </Link>
                 <span
-                  className={`mt-1.5 ml-5 ${
-                    Product === "resour" ? "rotate-180 mb-1.5" : "block"
-                  }`}
+                  className={`mt-1.5 ml-5 ${Product === "resour" ? "rotate-180 mb-1.5" : "block"
+                    }`}
                   onClick={() => {
                     if (Product === "hide") {
                       Setvproduct("resour");

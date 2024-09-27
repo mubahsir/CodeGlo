@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "../component/navbar";
 import Gettoknow from "../component/gettoknow";
 import Footer from "../component/footer";
+import Link from "next/link";
 function Web() {
   const gettoknow = {
     head: "Let's work together to build something great.",
@@ -127,7 +128,9 @@ __________________________________________ */}
               <p>Laravel</p>
             </div>
           </div>
-          <button className="tech-view-more">View More</button>
+          <Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -194,8 +197,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>MVC</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -279,8 +283,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>Google Material Design</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -414,8 +419,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>Quora ads</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -481,8 +487,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>HTML</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -551,8 +558,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>Postman</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -634,8 +642,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>IBM HTTP</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -711,8 +720,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>Elastic X-Pack</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -785,8 +795,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>Affinity designer</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
 
@@ -866,8 +877,9 @@ __________________________________________ */}
             <div className="tech-button">
               <p>Confluence</p>
             </div>
-          </div>
-          <button className="tech-view-more">View More</button>
+          </div><Link href={'/Services'}>
+            <button className="tech-view-more">View More</button>
+          </Link>
         </div>
       </div>
       <Gettoknow know={gettoknow} />

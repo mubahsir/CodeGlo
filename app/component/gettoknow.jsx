@@ -14,12 +14,7 @@ const Gettoknow = ({ know }) => {
             <div className="px-6 py-4">
               <div className="font-bold flex flex-col	justify-center	  text-xl mb-2">
                 <span className="text-black	">CodeGlo Tech & Marketing</span>
-                <span className="flex relative left-32	">
-                  <IoStarSharp className="text-yellow-500" />
-                  <IoStarSharp className="text-yellow-500" />
-                  <IoStarSharp className="text-yellow-500" />
-                  <IoStarSharp className="text-yellow-500 mr-3" />{" "}
-                </span>
+            
               </div>
               <p className="text-gray-700 text-base">
                 &ldquo;I found it most impressive the persistence and dedication

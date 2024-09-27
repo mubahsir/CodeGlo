@@ -141,7 +141,7 @@ const MarketLeader = () => {
           </div>
         </div>
       </Carousel>
-      s
+
     </div>
   );
 };

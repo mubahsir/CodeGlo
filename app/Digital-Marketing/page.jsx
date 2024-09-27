@@ -68,7 +68,7 @@ const Page = () => {
                 </span>
               </div>
               <div className="digitaltools ">
-                <span className="RobotoMono">Facebook Advertising</span>
+                <span className="RobotoMono">SEO Optimization</span>
               </div>
               <span className="fisrspanwhat">
                 An effective SEO plan will help you strike gold. Any product or
@@ -253,11 +253,8 @@ const Page = () => {
                 <span className="RobotoMono">Connect and Engage</span>
               </div>
               <span className="fisrspanwhat">
-                Once awareness about the brand and decent website traffic is
-                created, it’s important to implement push and pull online
-                marketing strategies. A good practice would be to study what
-                your competitors do to get an idea of your potential user
-                behaviours.
+                After building brand awareness and generating website traffic,
+                it&apos;s crucial to use push and pull marketing strategies.
               </span>
               <br />{" "}
             </div>
@@ -287,11 +284,7 @@ const Page = () => {
               <span className="fisrspanwhat">
                 Ofcourse, it doesn’t stop with just good lead generation and
                 conversion. Prompt after-sales service is what makes your
-                business sustainable. To thrive as a top market player, you need
-                to ensure customer loyalty through effective after-sales
-                service.Many businesses offer loyalty programs, coupons and
-                discounts on the next purchase in order to retain their customer
-                base.
+                business sustainable. To thrive as a top market player.
               </span>
               <br />{" "}
             </div>

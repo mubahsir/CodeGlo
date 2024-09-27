@@ -22,16 +22,16 @@ const Board = () => {
     <>
       <Navbar />
       <div className="digital1 bg-black">
-        <div className="blockhead">
+        <div className="digitalhead">
           <h1 className="RobotoMono ">
-            Automate your entire corporate meeting process with a click of a
-            button
+            Automate your entire corporate meeting process with a click of a button
+
           </h1>
         </div>
 
         <div className="ourwork">
           <h1 id="ourworkhead" className=" ">
-            Our work has been featured in
+            official web development company
           </h1>
           <div className="portfolio1img">
             <img src="fox_news_channel_logo.svg" alt="" />

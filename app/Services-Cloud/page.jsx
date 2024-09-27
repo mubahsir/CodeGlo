@@ -165,8 +165,7 @@ const Cloud = () => {
               <h3>Implementation & deployment</h3>
               <p>
                 We configure and implement orchestration platforms and cloud
-                automation with DevOps integration and facilitate the management
-                of your cloud resources quickly & easily.
+                automation with DevOps integration .
               </p>
             </div>
             <div className="grid-itemfl">
