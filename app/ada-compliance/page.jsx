@@ -12,7 +12,7 @@ function Page() {
       <Navbar />
       <div className="digital1 bg-black">
         <div className="digitalhead">
-          <h1 className="RobotoMono ">CODEGLO ADA Compliance</h1>
+          <h1 className="RobotoMono ">CodeGlo Development ADA Compliance</h1>
         </div>
 
         <div className="ourwork">
@@ -61,7 +61,7 @@ function Page() {
       </div>
       <div className="bgdit">
         <div className="container-audit">
-          <h1 className="RobotoMono ">What we do at CodeGlo</h1>
+          <h1 className="RobotoMono ">What we do at CodeGlo Development</h1>
           <div className="servicee">
             <i>
               <PiNotepadLight />
@@ -97,7 +97,7 @@ function Page() {
             <div>
               <p className="service-titlee">Remediation</p>
               <p>
-                Go one step further and leave accessibility to us. CodeGlo’s
+                Go one step further and leave accessibility to us. CodeGlo’s Development
                 team of developers will fix all the identified issues on your
                 website, letting you focus on the business end of things
                 instead.
@@ -111,7 +111,7 @@ function Page() {
             <div>
               <p className="service-titlee">Maintenance</p>
               <p>
-                Team CodeGlo will help you create web pages and websites from
+                Team CodeGlo Development will help you create web pages and websites from
                 scratch such that they stay accessible from the very start,
                 ensuring that a wider audience can get the complete user
                 experience on your website.

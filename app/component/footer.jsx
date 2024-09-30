@@ -128,7 +128,7 @@ const Footer = () => {
 
 
       <div className="copyright">
-        <p>Copyright © 2019 CodeGlo Technologies. All rights reserved.</p>
+        <p>Copyright © 2019 CodeGlo Development Technologies. All rights reserved.</p>
       </div>
     </div>
   );

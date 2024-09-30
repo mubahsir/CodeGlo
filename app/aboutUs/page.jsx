@@ -18,7 +18,7 @@ import MarketLeader from "../component/marketleader";
 
 const Page = () => {
   const gettoknow = {
-    head: "Find out how you can build a career with CodeGlo",
+    head: "Find out how you can build a career with CodeGlo Development",
     para: " ",
   };
   return (

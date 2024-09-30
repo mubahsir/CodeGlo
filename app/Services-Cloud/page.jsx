@@ -58,7 +58,7 @@ const Cloud = () => {
               </span>
               <h3>Migrating Legacy servers to Cloud</h3>
               <p>
-                Before you migrate your infrastructure in the Cloud, CodeGlo can
+                Before you migrate your infrastructure in the Cloud, CodeGlo Development can
                 help you to define the best configuration you need: server
                 space, network connections, bandwidth, IP addresses, load
                 balancers.
@@ -134,7 +134,7 @@ const Cloud = () => {
           <h1 className="RobotoMono ">Process We Follow</h1>
           <p>
             Backed by a professional architecture team and multi-cloud approach
-            to cloud architecture design, CodeGlo assesses your workload and
+            to cloud architecture design, CodeGlo Development assesses your workload and
             application needs, to choose the right cloud platform.
           </p>
           <div className="gridfl">
@@ -174,7 +174,7 @@ const Cloud = () => {
               </span>
               <h3>Cost optimisation</h3>
               <p>
-                CodeGlo helps you track resource usage, spend analytics &
+                CodeGlo Development helps you track resource usage, spend analytics &
                 measure what&apos;s lying unused or overspent, and how you can
                 streamline your cloud expenditure.
               </p>
@@ -187,7 +187,7 @@ const Cloud = () => {
               <p>
                 Migrating to the cloud? Security is often overlooked.
                 Understanding your risk and compliance requirements is critical.
-                CodeGlo provides the expertise.
+                CodeGlo Development provides the expertise.
               </p>
             </div>
             <div className="grid-itemfl">

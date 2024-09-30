@@ -48,7 +48,7 @@ const Itservice = () => {
           <p>
             From expert advisory services to fully managed security operations -
           </p>
-          <p>when it comes to security, think no further than CodeGlo</p>
+          <p>when it comes to security, think no further than CodeGlo Development</p>
         </div>
       </div>
 

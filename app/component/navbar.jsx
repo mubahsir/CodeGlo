@@ -217,7 +217,7 @@ function Navbar() {
               <h1 className="sercontenth1  ">Digital Marketing</h1>
               <p>
                 Don’t just capture customer attention, but create brand loyalty
-                online. With CodeGlo’s robust Digital Marketing strategies, you
+                online. With CodeGlo’s Development robust Digital Marketing strategies, you
                 can transform the way your business speaks to its target market.
               </p>
             </Link>
@@ -231,7 +231,7 @@ function Navbar() {
             <Link href={"/Blockchain-Technoly"}>
               <h1 className="sercontenth1  ">Blockchain Technology</h1>
               <p>
-                CodeGlo, the top-ranked provider of blockchain services, has the
+                CodeGlo, Development the top-ranked provider of blockchain services, has the
                 expertise to assist you in creating effective solutions using
                 the best technology.
               </p>
@@ -263,7 +263,7 @@ function Navbar() {
             <Link href={"/ada-compliance"}>
               <h1 className="sercontenth1  ">ADA Compliance</h1>
               <p>
-                With CodeGlo&apos;s ADA compliance services, Our experienced web
+                With CodeGlo&apos;s Development ADA compliance services, Our experienced web
                 design and development team can make sure your site complies
                 with ADA regulations.
               </p>
@@ -280,7 +280,7 @@ function Navbar() {
               <h1 className="sercontenth1  ">Online Reputation Managment</h1>
               <p>
                 A company&apos;s market value is at least 50% based on its
-                online reputation. With the help of CodeGlo&apos;s Online
+                online reputation. With the help of CodeGlo&apos;s Development Online
                 Reputation Management services, take control of your reputation
                 and create a favorable brand image as well as Personal
                 Reputation.
@@ -296,7 +296,7 @@ function Navbar() {
             <Link href={"/Services-Cloud"}>
               <h1 className="sercontenth1  ">Cloud Infrastructure</h1>
               <p>
-                Servers, Software or Network devices, CodeGlo will take over the
+                Servers, Software or Network devices, CodeGlo Development will take over the
                 setup challenges and effortlessly migrate them to the cloud,
                 helping you do business – the Smarter Way!
               </p>
@@ -312,7 +312,7 @@ function Navbar() {
               <h1 className="sercontenth1  ">IT Security Service</h1>
               <p>
                 Worries about undesired access, security and Data breaches are a
-                thing of the past. With CodeGlo, you aren’t just mitigating Data
+                thing of the past. With CodeGlo Development , you aren’t just mitigating Data
                 risk, but ensuring Business Continuity.
               </p>
             </Link>
@@ -469,7 +469,7 @@ function Navbar() {
           >
             <Link href={"/resources-case-study"}>
               <h1 className="sercontenth1  ">Case Study</h1>
-              <p>Case Study | Codeglo</p>
+              <p>Case Study | Codeglo Development</p>
             </Link>
           </div>
           <div
@@ -480,7 +480,7 @@ function Navbar() {
           >
             <Link href={"/resources"}>
               <h1 className="sercontenth1  ">RPA Website Case Study</h1>
-              <p>RPA Website Case Study | Codeglo</p>
+              <p>RPA Website Case Study | Codeglo Development</p>
             </Link>
           </div>
         </div>

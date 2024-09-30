@@ -57,7 +57,7 @@ const Page = () => {
             around you.
           </p>
           <p>
-            At CodeGlo, we build customized, end-to-end, secure, efficient
+            At CodeGlo Development , we build customized, end-to-end, secure, efficient
             blockchain projects and applications for your organization
             irrespective of scale.
           </p>
@@ -129,7 +129,7 @@ const Page = () => {
               <p>
                 Decentralized Finance (or DeFi in short) provides an
                 unprecedented level of transparency, security, and trust when it
-                comes to financial infrastructure. CodeGlo’s blockchain
+                comes to financial infrastructure. CodeGlo’ Developments blockchain
                 developers will help you develop decentralized exchange, DeFi
                 lending/borrowing platform, DeFi wallet, decentralized apps,
                 smart contracts, DeFi tokens, synthetic assets, DeFi insurance
@@ -145,7 +145,7 @@ const Page = () => {
               <p>
                 A Minimum Viable Product is a light, rudimentary version of the
                 final product that’s developed and launched to get an idea of
-                how it performs in the real world. At CodeGlo, we will combine
+                how it performs in the real world. At CodeGlo Development, we will combine
                 our expertise in blockchain technology with your requirements
                 and create an MVP to help you explore and realize the potential
                 and feasibility of not just your product, platform, or idea, but
@@ -162,7 +162,7 @@ const Page = () => {
                 of possession of specific digital assets. They act like smart
                 contracts and are built using open source-code parts that can be
                 used on platforms such as GitHub to secure the digital asset. At
-                CodeGlo, we will help you with the development of NFT based
+                CodeGlo Development, we will help you with the development of NFT based
                 token, marketplace, exchange, lending, gaming platform, P2P
                 exchange, and even IPO.
               </p>
@@ -187,7 +187,7 @@ const Page = () => {
               </span>
               <h2 className="RobotoMono">Crypto Exchange Development</h2>
               <p>
-                Crypto exchanges help you trade cryptocurrencies and at CodeGlo,
+                Crypto exchanges help you trade cryptocurrencies and at CodeGlo Development,
                 we specialize across all types of crypto exchanges. We are
                 experts at developing centralized, decentralized, and hybrid
                 crypto exchange software solutions. We also have experience
@@ -202,7 +202,7 @@ const Page = () => {
               <h2 className="RobotoMono">Blockchain scaling solutions</h2>
               <p>
                 With huge loads of data, blockchain systems might suffer from
-                low scalability. Codeglo implements Layer-2 Scaling Solutions
+                low scalability. Codeglo Developnet implements Layer-2 Scaling Solutions
                 that offer sharding, segregated witness (SEGWIT) to enhance
                 performances, thus improving the speed and efficiency of the
                 underlying Blockchain.

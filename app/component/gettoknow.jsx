@@ -13,7 +13,7 @@ const Gettoknow = ({ know }) => {
             </div>
             <div className="px-6 py-4">
               <div className="font-bold flex flex-col	justify-center	  text-xl mb-2">
-                <span className="text-black	">CodeGlo Tech & Marketing</span>
+                <span className="text-black	">CodeGlo Development Tech & Marketing</span>
             
               </div>
               <p className="text-gray-700 text-base">

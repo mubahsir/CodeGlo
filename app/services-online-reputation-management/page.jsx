@@ -121,10 +121,10 @@ const Onlinerepultion = () => {
               </i>
               <h2>Public Relations</h2>
               <p>
-                CodeGlo’s ORM team offers all round support with all strategic
+                CodeGlo’s Development ORM team offers all round support with all strategic
                 communications, relations with media outlets, community
                 building, crisis management and prevention, and public
-                relations. With CodeGlo’s partnership, your brand’s reputation
+                relations. With CodeGlo’s Development partnership, your brand’s reputation
                 is always safe, healthy, and ready to self-sustain.
               </p>
             </div>
